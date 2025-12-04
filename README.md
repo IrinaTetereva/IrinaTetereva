@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrinaTetereva
 - 👀 I’m interested in data analysys
-- 🌱 I’m currently learning python, SQL and data visualisation
+- 🌱 I use python, SQL and data visualisation to find business insights
 - 💞️ I’m looking to collaborate on data analisys projects
 - 📫 To reach me use e-mail selin1@yandex.ru or [Telegram](https://t.me/Kukututu)   
 - ✨ **Some student projects** [тут](https://github.com/IrinaTetereva/Yandex.Practikum_DA)  
